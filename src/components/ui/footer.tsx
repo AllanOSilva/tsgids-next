@@ -2,7 +2,7 @@
 export default function Footer() {
     return(
         <>
-        <footer  className="footer self-end shadow-3fxl text-center px-4 py-2">
+        <footer  className="footer absolute bottom-0 w-full shadow-3fxl text-center px-4 py-2">
           <div className="container">
               <section>
                   <a data-mdb-ripple-init
