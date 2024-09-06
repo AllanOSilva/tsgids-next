@@ -3,6 +3,12 @@
 @tailwind utilities;
 
 body{
+  margin: 0;
+    padding: 0;
   background-color: #ffc400;
   background: linear-gradient(90deg, #ffc400, #a69c0c , #52ff00) ;  
+  scroll-behavior: smooth;
+}
+h2{
+  margin-bottom: 32px;
 }
