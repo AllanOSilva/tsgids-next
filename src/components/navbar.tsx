@@ -4,7 +4,7 @@ import Logo from "./ui/logo"
 export default function Navbar(){
     return(
         <>
-        <nav className="bg-[#e0b700] shadow-3xl p-4">
+        <nav className="bg-[#e0b700] shadow-3xl p-4 sticky top-0">
             <div className="container mx-auto flex justify-between items-center">
                 <Cano1 />
                 <Logo />
