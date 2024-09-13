@@ -10,10 +10,10 @@ export default function Home() {
     <Navbar />
     <div id="corpo" className="pl-24 pr-3 pt-4 justify-center ">
       <div id="home" className="sobre container text-center text-white border-slate-800 shadow-3fxl pb-8 mb-36 w-[80%] ">
-        <h2>SOBRE A EMPRESA</h2>
-        <div className="flex col-auto
-         align-middle text-center">
-        <p className="align-middle text-black font-bold m-2 text-center">
+        <h2 className="[text-shadow:_0_2px_0_black] bg-[#f1cb4b]">SOBRE A EMPRESA</h2>
+        <div className=" flex col-auto
+         align-middle text-center ">
+        <p className="align-middle text-black font-bold m-2 text-center ">
         Somos uma empresa fundada em Setembro de 2010, na Cidade do Rio de Janeiro.
                             Atuamos na prestação de serviço nas áreas de Assistência Técnica e instalações de rede
                             de gases especiais; Possuimos equipes de técnicos capacitados para instalação, montagem
