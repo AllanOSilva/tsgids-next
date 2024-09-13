@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
     <Navbar />
-    <div className="justify-center">
+    
       <div id="corpo" className="pl-40  pt-4 justify-center ">
         <div id="home" className="sobre container text-center text-white border-slate-800 shadow-3fxl pb-8 mb-36 w-[80%] ">
           <h2 className="[text-shadow:_0_2px_0_black] bg-[#f1cb4b]">SOBRE A EMPRESA</h2>
@@ -29,11 +29,11 @@ export default function Home() {
             <Selfie  />
           </div>
         </div>
+        <div id="carrocel" className=" pl-40 pt-4 justify-center text-center text-white border-slate-800 shadow-3fxl pb-8 mb-36 w-[80%] ">
+          oi
+        </div>
       </div>
-      <div id="carrocel" className="default-carrocel">
-
-      </div>
-    </div>
+    
     <Footer />
     </>
   );
