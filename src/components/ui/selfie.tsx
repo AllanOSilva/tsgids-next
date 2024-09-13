@@ -4,10 +4,13 @@ export default function Selfie() {
     return(
         <Image  
         alt="selfie"
+        id="selfie"
             src="/rosto.png"
-            width={150}
-            height={100}
+            width={50}
+            height={5}
             priority
+            className="sm:w-{150}"
+            
             />
     )
 };
