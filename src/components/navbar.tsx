@@ -8,7 +8,7 @@ export default function Navbar(){
             <div className="container mx-auto flex justify-between items-center">
                 <Cano1 />
                 <Logo />
-                <div className="hidden md:flex space-x-4 [text-shadow:_0_2px_0_rgb(2_2_2_/_100%)]">
+                <div className="hidden md:flex space-x-4 [text-shadow:_0_2px_0_black]">
                     <a href="#" className="text-white ">Home</a>
                     <a href="#" className="text-white">About</a>
                     <a href="#" className="text-white">Services</a>
