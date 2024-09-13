@@ -9,7 +9,7 @@ export default function Home() {
     <>
     <Navbar />
     <div id="corpo" className="pl-24 pr-3 pt-4 justify-center ">
-      <div id="home" className="sobre container text-center text-white border-slate-800 shadow-3fxl pb-8 mb-36 w-[70%] ">
+      <div id="home" className="sobre container text-center text-white border-slate-800 shadow-3fxl pb-8 mb-36 w-[80%] ">
         <h2>SOBRE A EMPRESA</h2>
         <div className="flex col-auto
          align-middle text-center">

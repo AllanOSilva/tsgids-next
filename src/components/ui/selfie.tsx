@@ -6,10 +6,10 @@ export default function Selfie() {
         alt="selfie"
         id="selfie"
             src="/rosto.png"
-            width={50}
-            height={5}
+            width={150}
+            height={50}
             priority
-            className="sm:w-{150}"
+            className="pr-3"
             
             />
     )
