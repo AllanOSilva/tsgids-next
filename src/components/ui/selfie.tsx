@@ -9,7 +9,7 @@ export default function Selfie() {
             width={150}
             height={50}
             priority
-            className="pr-3"
+            className=" pr-3"
             
             />
     )
