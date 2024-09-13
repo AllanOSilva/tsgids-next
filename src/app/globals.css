@@ -3,10 +3,9 @@
 @tailwind utilities;
 
 body{
-  margin: 0;
-    padding: 0;
+ 
   background-color: #ebd58f;
-   
+  justify-content: center;
   scroll-behavior: smooth;
 }
 h2{
