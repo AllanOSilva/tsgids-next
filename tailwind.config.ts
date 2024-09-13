@@ -16,6 +16,9 @@ const config: Config = {
       boxShadow:{
         "3xl": "1px 5px 5px black",
         "3fxl": "10px 5px 20px 5px black",
+      },
+      colors:{
+         'golden':'#ffc400', 'semigolden':'#a69c0c', 'lightgreen': '#52ff00'
       }
     },
   },
